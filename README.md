@@ -24,9 +24,3 @@ PiC4YOU is a Flutter-based photo editor application that allows users to pick im
 
 ### Prerequisites
 To run this app locally, you need to have Flutter installed. If you haven't installed Flutter, follow the official installation guide: [Flutter Installation](https://flutter.dev/docs/get-started/install).
-
-### Cloning the Repository
-
-1. Clone the repository to your local machine:
-   ```bash
-   git clone https://github.com/your-username/photo-editor-app.git
